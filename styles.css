@@ -70,6 +70,12 @@ background: radial-gradient(circle, rgba(177,255,251,1) 61%, rgba(189,227,232,1)
     background: rgb(177,255,251);
     background: radial-gradient(circle, rgba(177,255,251,1) 61%, rgba(189,227,232,1) 100%);
 }
+.children_image img{
+    width:300px;
+    height: 30vh;
+    align-items:right;
+    padding:5%;
+}
 #section3{
     background: rgb(177,255,251);
 background: radial-gradient(circle, rgba(177,255,251,1) 61%, rgba(189,227,232,1) 100%);
